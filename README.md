@@ -1,3 +1,2 @@
-{% note warning %}
-To jest ostrzeżenie w Jekyll!
-{% endnote %}
+> [!WARNING]
+> Mod nie jest rozwijany od 2024.
